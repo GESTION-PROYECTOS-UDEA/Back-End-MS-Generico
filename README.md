@@ -1,0 +1,2 @@
+# entidad_generica
+
